@@ -1,0 +1,19 @@
+﻿using Proniam.Models;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Proniam.Models
+{
+    public class Slide: BaseEntity
+    {
+        [MaxLength(250,ErrorMessage ="maximum 250 simvoldan istifade etmek olar")]
+        public int Id { get; set; }
+        public string Title { get; set; }
+        public string Subtitle { get; set; }
+        public string Description { get; set; }
+        public string Image { get; set; }
+        public int Order { get; set; }
+        [NotMapped]
+        public IFormFile Photo { get; set; }
+    }
+}
