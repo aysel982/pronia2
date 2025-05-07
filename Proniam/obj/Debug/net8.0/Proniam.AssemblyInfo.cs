@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proniam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80a42e8ab8926e9f98dec2b55a1110f8d1c0988a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a26f025a971cfe73c519b3903574a60bb93e353")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proniam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proniam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
