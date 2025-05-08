@@ -43,11 +43,7 @@ namespace Proniam.Areas.Admin.Controllers
             return View(slideVMs);
         }
 
-        //public string Test()
-        //{
-
-        //    return Guid.NewGuid().ToString();
-        //}
+        
         public IActionResult Create()
         {
             return View();
@@ -86,6 +82,60 @@ namespace Proniam.Areas.Admin.Controllers
 
             return RedirectToAction(nameof(Index));
         }
+
+        public async Task<IActionResult> Update(int? id)
+        {
+            if (id is null||id<=0) return BadRequest();
+            Slide? slide = await _context.Slides.FirstOrDefaultAsync(s => s.Id == id);
+            if (slide is null) return NotFound();
+            UpdateSlideVM slidevm = new UpdateSlideVM
+            {
+                Title = slide.Title,
+                Subtitle = slide.Subtitle,
+                Order = slide.Order,
+                Description = slide.Description,
+                Image = slide.Image
+            };
+            return View(slidevm);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Update(int? id,UpdateSlideVM slidevm)
+        {
+            if (!ModelState.IsValid)
+            {
+               
+                return View(slidevm);
+            }
+            Slide? existed = await _context.Slides.FirstOrDefaultAsync(s => s.Id == id);
+                if (existed is null) return NotFound();
+            if(slidevm.Photo is not null)
+            {
+                if (!slidevm.Photo.ValidateType("image/"))
+                {
+                    ModelState.AddModelError(nameof(UpdateSlideVM.Photo), "File type is incorrect");
+                    return View(slidevm);
+                }
+                if (!slidevm.Photo.ValidateSize(FileSize.MB, 1))
+                {
+
+                    ModelState.AddModelError(nameof(UpdateSlideVM.Photo), "File size must be less that 1MB");
+                    return View(slidevm);
+                }
+                string fileName= await slidevm.Photo.CreateFileAsync(_env.WebRootPath, "assets", "images", "website-images");
+                existed.Image.DeleteFile(_env.WebRootPath, "assets", "images", "website-images");
+                existed.Image = fileName;
+            }
+            existed.Title = slidevm.Title;
+            existed.Subtitle = slidevm.Subtitle;
+            existed.Order = slidevm.Order;
+            existed.Description = slidevm.Description;
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
+
+        }
+
 
         public async Task<IActionResult> Delete(int? id) 
         {
