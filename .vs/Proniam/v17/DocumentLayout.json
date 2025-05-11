@@ -3,48 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\slide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\slide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\viewmodel\\products\\getproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\viewmodel\\products\\getproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\viewmodel\\products\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\viewmodel\\products\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\slide\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\slide\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\viewmodel\\slide\\updateslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\viewmodel\\slide\\updateslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\slide\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\slide\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\viewmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\viewmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\slide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\slide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\viewmodel\\products\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\viewmodel\\products\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\viewmodel\\products\\getproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\viewmodel\\products\\getproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\viewmodel\\slide\\createslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,36 +95,32 @@
       "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\viewmodel\\slide\\getslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\viewmodel\\slide\\updateslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\viewmodel\\slide\\updateslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\viewmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\viewmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\utilities\\extentions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\utilities\\extentions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,10 +135,6 @@
       "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -114,11 +146,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Proniam\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Proniam\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAABgZmZmZmYowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:14:39.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Proniam\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Proniam\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:58:44.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCIAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T21:28:25.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\Products\\UpdateProductVM.cs",
+              "RelativeDocumentMoniker": "Proniam\\ViewModel\\Products\\UpdateProductVM.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\Products\\UpdateProductVM.cs",
+              "RelativeToolTip": "Proniam\\ViewModel\\Products\\UpdateProductVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:25:59.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Views\\Shop\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Proniam\\Views\\Shop\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Views\\Shop\\Detail.cshtml",
+              "RelativeToolTip": "Proniam\\Views\\Shop\\Detail.cshtml",
+              "ViewState": "AgIAANMBAAAAAAAAAAAkwOcBAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T21:22:58.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proniam\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Proniam\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAIwAAADAzMzMzMwqwGIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T21:21:01.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwB4AAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T20:13:02.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\Products\\CreateProductVM.cs",
+              "RelativeDocumentMoniker": "Proniam\\ViewModel\\Products\\CreateProductVM.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\Products\\CreateProductVM.cs",
+              "RelativeToolTip": "Proniam\\ViewModel\\Products\\CreateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:02:16.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Product\\Index.cshtml",
@@ -126,64 +259,62 @@
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T05:34:34.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T05:34:34.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Proniam\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Models\\Product.cs",
               "RelativeToolTip": "Proniam\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T05:09:02.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "GetProductVM.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\Products\\GetProductVM.cs",
               "RelativeDocumentMoniker": "Proniam\\ViewModel\\Products\\GetProductVM.cs",
               "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\Products\\GetProductVM.cs",
               "RelativeToolTip": "Proniam\\ViewModel\\Products\\GetProductVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T05:08:24.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T05:08:24.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBgAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAJ0AAAAAY2ZmZmYkwLUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T04:37:07.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Slide\\Update.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Slide\\Update.cshtml",
               "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Slide\\Update.cshtml",
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Slide\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAMzMzMzMbwAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-08T02:29:48.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 25,
               "Title": "UpdateSlideVM.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\Slide\\UpdateSlideVM.cs",
               "RelativeDocumentMoniker": "Proniam\\ViewModel\\Slide\\UpdateSlideVM.cs",
@@ -191,12 +322,11 @@
               "RelativeToolTip": "Proniam\\ViewModel\\Slide\\UpdateSlideVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T02:22:35.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T02:22:35.469Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 11,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\HomeVM.cs",
               "RelativeDocumentMoniker": "Proniam\\ViewModel\\HomeVM.cs",
@@ -204,11 +334,12 @@
               "RelativeToolTip": "Proniam\\ViewModel\\HomeVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T07:28:31.748Z"
+              "WhenOpened": "2025-05-07T07:28:31.748Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "GetSlideVM.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\Slide\\GetSlideVM.cs",
               "RelativeDocumentMoniker": "Proniam\\ViewModel\\Slide\\GetSlideVM.cs",
@@ -216,12 +347,11 @@
               "RelativeToolTip": "Proniam\\ViewModel\\Slide\\GetSlideVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T07:27:53.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T07:27:53.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "CreateSlideVM.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\Slide\\CreateSlideVM.cs",
               "RelativeDocumentMoniker": "Proniam\\ViewModel\\Slide\\CreateSlideVM.cs",
@@ -229,12 +359,11 @@
               "RelativeToolTip": "Proniam\\ViewModel\\Slide\\CreateSlideVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T07:12:17.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T07:12:17.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "FileSize.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Utilities\\Enums\\FileSize.cs",
               "RelativeDocumentMoniker": "Proniam\\Utilities\\Enums\\FileSize.cs",
@@ -246,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 28,
               "Title": "FileValidator.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Utilities\\Extentions\\FileValidator.cs",
               "RelativeDocumentMoniker": "Proniam\\Utilities\\Extentions\\FileValidator.cs",
@@ -258,59 +387,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Slide.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Models\\Slide.cs",
               "RelativeDocumentMoniker": "Proniam\\Models\\Slide.cs",
               "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Models\\Slide.cs",
               "RelativeToolTip": "Proniam\\Models\\Slide.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAABwZmZmZmYowA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T06:40:40.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
               "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T06:27:19.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T06:27:19.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
               "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAqwEcAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T06:12:03.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T06:12:03.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 23,
               "Title": "SlideController.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Controllers\\SlideController.cs",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Controllers\\SlideController.cs",
               "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Controllers\\SlideController.cs",
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Controllers\\SlideController.cs",
-              "ViewState": "AgIAAG4AAACAZmZmZmYwwHYAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAzMzMzMz8v3YAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T06:10:43.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T06:10:43.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 26,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Category\\Update.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Category\\Update.cshtml",
@@ -318,12 +444,11 @@
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Category\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T02:45:49.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T02:45:49.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 4,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Proniam\\Models\\Category.cs",
@@ -331,11 +456,12 @@
               "RelativeToolTip": "Proniam\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T01:57:34.119Z"
+              "WhenOpened": "2025-05-06T01:57:34.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Category\\Create.cshtml",
@@ -343,11 +469,12 @@
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T01:49:15.593Z"
+              "WhenOpened": "2025-05-06T01:49:15.593Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -359,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 27,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Category\\Index.cshtml",
@@ -371,19 +498,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAA4AAABgZmZmZmYowDQAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAMzMzMzPzvykAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T00:52:03.82Z"
+              "WhenOpened": "2025-05-06T00:52:03.82Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -395,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Controllers\\HomeController.cs",
@@ -407,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
@@ -419,7 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Home\\Index.cshtml",
@@ -427,18 +555,17 @@
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T00:29:16.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T00:29:16.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Program.cs",
               "RelativeDocumentMoniker": "Proniam\\Program.cs",
               "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Program.cs",
               "RelativeToolTip": "Proniam\\Program.cs",
-              "ViewState": "AgIAABIAAAAAMjMzMzPjvyUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAABAmZmZmZkdwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T00:28:33.07Z"
             }

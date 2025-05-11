@@ -482,10 +482,10 @@
                                         <a href="single-product-variable.html">
                                             <img class="primary-img"
                                                  src="~/assets/images/website-images/@product.ProductImages.FirstOrDefault(p=>p.IsPrimary==true)?.Image"
-                                                 alt="Product Images" />
+                                                 alt="@product.Name" />
                                             <img class="secondary-img"
                                                  src="~/assets/images/website-images/@product.ProductImages.FirstOrDefault(p=>p.IsPrimary==false)?.Image"
-                                                 alt="Product Images" />
+                                                 alt="@product.Name" />
                                         </a>
                                         <div class="product-add-action">
                                             <ul>
