@@ -159,10 +159,10 @@ namespace Proniam.Areas.Admin.Controllers
                 existed.ProductImages.Add(main);
             }
             existed.Name = productVM.Name;
-            existed.ProductImages = productVM.Price.Value;
+           
             existed.Description = productVM.Description;
             existed.SKU = productVM.SKU;
-            existed.Category = productVM.CategoryId.Value;
+            existed.CategoryId = productVM.CategoryId.Value;
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
