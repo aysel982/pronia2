@@ -3,24 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\utilities\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\utilities\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\viewmodel\\users\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\viewmodel\\users\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\viewmodel\\users\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\viewmodel\\users\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Migrations\\20250513064404_CreateIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proniam\\Migrations\\20250513064404_CreateIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\viewmodel\\products\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\slide\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\slide\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -131,10 +147,6 @@
       "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\utilities\\extentions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\utilities\\extentions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -157,6 +169,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\proniam\\proniam\\migrations\\20250513064404_createidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0512B126-1084-4A7A-9F6A-8CDCBF01F3A8}|Proniam\\Proniam.csproj|solutionrelative:proniam\\migrations\\20250513064404_createidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -166,50 +182,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Utilities\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "Proniam\\Utilities\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Utilities\\Enums\\UserRole.cs",
+              "RelativeToolTip": "Proniam\\Utilities\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:39:31.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Proniam\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Proniam\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHwAAAAAMzMzMzMTwIsAAACtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T07:12:04.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\Users\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Proniam\\ViewModel\\Users\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\Users\\LoginVM.cs",
+              "RelativeToolTip": "Proniam\\ViewModel\\Users\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:32:32.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Proniam\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Proniam\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAADQAAABANDMzMzMLwBsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T06:31:49.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\Users\\RegisterVM.cs",
               "RelativeDocumentMoniker": "Proniam\\ViewModel\\Users\\RegisterVM.cs",
               "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\Users\\RegisterVM.cs",
               "RelativeToolTip": "Proniam\\ViewModel\\Users\\RegisterVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T07:04:58.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Views\\Account\\Register.cshtml",
               "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "Proniam\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAABYAAAAAMzMzMzMLwB0AAABaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-13T06:55:37.895Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Proniam\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Proniam\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABwAAACAZmZmZmYSwC0AAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAADQZWZmZmYwwDMAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T06:48:25.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 42,
               "Title": "20250513064404_CreateIdentity.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Migrations\\20250513064404_CreateIdentity.cs",
               "RelativeDocumentMoniker": "Proniam\\Migrations\\20250513064404_CreateIdentity.cs",
@@ -217,12 +285,11 @@
               "RelativeToolTip": "Proniam\\Migrations\\20250513064404_CreateIdentity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T06:44:04.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T06:44:04.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Proniam\\Models\\AppUser.cs",
@@ -230,12 +297,11 @@
               "RelativeToolTip": "Proniam\\Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T05:56:19.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T05:56:19.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Proniam\\Controllers\\HomeController.cs",
@@ -243,12 +309,11 @@
               "RelativeToolTip": "Proniam\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAsAAAAwMzMzMzM7wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T12:14:39.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T12:14:39.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Proniam\\DAL\\AppDbContext.cs",
@@ -256,12 +321,11 @@
               "RelativeToolTip": "Proniam\\DAL\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T11:58:44.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T11:58:44.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Product\\Update.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Product\\Update.cshtml",
@@ -269,12 +333,11 @@
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Product\\Update.cshtml",
               "ViewState": "AgIAABYAAAAAAAAAAAAkwCIAAACHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T21:28:25.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T21:28:25.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "UpdateProductVM.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\Products\\UpdateProductVM.cs",
               "RelativeDocumentMoniker": "Proniam\\ViewModel\\Products\\UpdateProductVM.cs",
@@ -282,12 +345,11 @@
               "RelativeToolTip": "Proniam\\ViewModel\\Products\\UpdateProductVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T21:25:59.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T21:25:59.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Views\\Shop\\Detail.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Views\\Shop\\Detail.cshtml",
@@ -295,12 +357,11 @@
               "RelativeToolTip": "Proniam\\Views\\Shop\\Detail.cshtml",
               "ViewState": "AgIAANMBAAAAAAAAAAAkwOcBAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T21:22:58.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T21:22:58.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Views\\Home\\Index.cshtml",
@@ -308,12 +369,11 @@
               "RelativeToolTip": "Proniam\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAIwAAADAzMzMzMwqwGIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T21:21:01.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T21:21:01.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Product\\Create.cshtml",
@@ -321,12 +381,11 @@
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "ViewState": "AgIAABEAAAAAAAAAAAAqwB4AAACHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T20:13:02.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T20:13:02.397Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "CreateProductVM.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\Products\\CreateProductVM.cs",
               "RelativeDocumentMoniker": "Proniam\\ViewModel\\Products\\CreateProductVM.cs",
@@ -334,12 +393,11 @@
               "RelativeToolTip": "Proniam\\ViewModel\\Products\\CreateProductVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T20:02:16.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T20:02:16.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Product\\Index.cshtml",
@@ -347,12 +405,11 @@
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T05:34:34.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T05:34:34.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Proniam\\Models\\Product.cs",
@@ -360,12 +417,11 @@
               "RelativeToolTip": "Proniam\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T05:09:02.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T05:09:02.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "GetProductVM.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\Products\\GetProductVM.cs",
               "RelativeDocumentMoniker": "Proniam\\ViewModel\\Products\\GetProductVM.cs",
@@ -373,25 +429,24 @@
               "RelativeToolTip": "Proniam\\ViewModel\\Products\\GetProductVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T05:08:24.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T05:08:24.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAABgZmZmZmYkwAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T04:37:07.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Slide\\Update.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Slide\\Update.cshtml",
@@ -399,12 +454,11 @@
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Slide\\Update.cshtml",
               "ViewState": "AgIAABoAAAAAMzMzMzMbwAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T02:29:48.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T02:29:48.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "UpdateSlideVM.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\Slide\\UpdateSlideVM.cs",
               "RelativeDocumentMoniker": "Proniam\\ViewModel\\Slide\\UpdateSlideVM.cs",
@@ -412,12 +466,11 @@
               "RelativeToolTip": "Proniam\\ViewModel\\Slide\\UpdateSlideVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T02:22:35.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T02:22:35.469Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\HomeVM.cs",
               "RelativeDocumentMoniker": "Proniam\\ViewModel\\HomeVM.cs",
@@ -425,12 +478,11 @@
               "RelativeToolTip": "Proniam\\ViewModel\\HomeVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T07:28:31.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T07:28:31.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "GetSlideVM.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\Slide\\GetSlideVM.cs",
               "RelativeDocumentMoniker": "Proniam\\ViewModel\\Slide\\GetSlideVM.cs",
@@ -438,12 +490,11 @@
               "RelativeToolTip": "Proniam\\ViewModel\\Slide\\GetSlideVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T07:27:53.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T07:27:53.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "CreateSlideVM.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\ViewModel\\Slide\\CreateSlideVM.cs",
               "RelativeDocumentMoniker": "Proniam\\ViewModel\\Slide\\CreateSlideVM.cs",
@@ -451,12 +502,11 @@
               "RelativeToolTip": "Proniam\\ViewModel\\Slide\\CreateSlideVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T07:12:17.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T07:12:17.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "FileSize.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Utilities\\Enums\\FileSize.cs",
               "RelativeDocumentMoniker": "Proniam\\Utilities\\Enums\\FileSize.cs",
@@ -464,12 +514,11 @@
               "RelativeToolTip": "Proniam\\Utilities\\Enums\\FileSize.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T02:23:38.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T02:23:38.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "FileValidator.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Utilities\\Extentions\\FileValidator.cs",
               "RelativeDocumentMoniker": "Proniam\\Utilities\\Extentions\\FileValidator.cs",
@@ -477,12 +526,11 @@
               "RelativeToolTip": "Proniam\\Utilities\\Extentions\\FileValidator.cs",
               "ViewState": "AgIAAAIAAAAAMzMzMzMbwBcAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T02:15:40.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T02:15:40.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Slide.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Models\\Slide.cs",
               "RelativeDocumentMoniker": "Proniam\\Models\\Slide.cs",
@@ -490,12 +538,11 @@
               "RelativeToolTip": "Proniam\\Models\\Slide.cs",
               "ViewState": "AgIAAAAAAABwZmZmZmYowA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T06:40:40.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T06:40:40.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
@@ -503,12 +550,11 @@
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T06:27:19.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T06:27:19.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
@@ -516,12 +562,11 @@
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T06:12:03.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T06:12:03.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "SlideController.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Controllers\\SlideController.cs",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Controllers\\SlideController.cs",
@@ -529,12 +574,11 @@
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Controllers\\SlideController.cs",
               "ViewState": "AgIAAFwAAAAAzMzMzMz8v3YAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T06:10:43.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T06:10:43.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Category\\Update.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Category\\Update.cshtml",
@@ -542,12 +586,11 @@
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Category\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T02:45:49.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T02:45:49.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Proniam\\Models\\Category.cs",
@@ -555,12 +598,11 @@
               "RelativeToolTip": "Proniam\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T01:57:34.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T01:57:34.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Category\\Create.cshtml",
@@ -568,12 +610,11 @@
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T01:49:15.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T01:49:15.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -581,12 +622,11 @@
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T01:10:05.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T01:10:05.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Category\\Index.cshtml",
@@ -594,25 +634,24 @@
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T00:59:12.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T00:59:12.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAABsAAAAAMzMzMzPzvykAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAoJmZmZnZv1sAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T00:52:03.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -620,12 +659,11 @@
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T00:48:24.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T00:48:24.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Controllers\\HomeController.cs",
@@ -633,12 +671,11 @@
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T00:30:03.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T00:30:03.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
@@ -646,12 +683,11 @@
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "ViewState": "AgIAANQAAAAAzMzMzMz0vxwBAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T00:29:18.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T00:29:18.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Proniam\\Areas\\Admin\\Views\\Home\\Index.cshtml",
@@ -659,18 +695,17 @@
               "RelativeToolTip": "Proniam\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T00:29:16.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T00:29:16.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Program.cs",
               "RelativeDocumentMoniker": "Proniam\\Program.cs",
               "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\Proniam\\Proniam\\Program.cs",
               "RelativeToolTip": "Proniam\\Program.cs",
-              "ViewState": "AgIAAAwAAADw//////8ywBcAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAA////////vyEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T00:28:33.07Z",
               "EditorCaption": ""

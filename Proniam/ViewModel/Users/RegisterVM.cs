@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Proniam.ViewModel.Users
+namespace Proniam.ViewModel
 {
     public class RegisterVM
     {

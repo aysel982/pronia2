@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Proniam.DAL;
 using Proniam.Models;
@@ -9,6 +10,8 @@ using Proniam.ViewModel;
 namespace Proniam.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles ="Admin,Moderator")]
+    
     public class ProductController : Controller
     {
         private readonly AppDbContext _context;
@@ -33,6 +36,7 @@ namespace Proniam.Areas.Admin.Controllers
             }).ToListAsync();
             return View();
         }
+        
         public async Task<IActionResult> Create()
         {
             CreateProductVM productVM = new CreateProductVM
